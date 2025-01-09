@@ -5,6 +5,6 @@ public class Main {
         int c = 3;
 
         a = b = c;
-        System.out.print(a + b + c);
+        System.out.printf("%d %d %d", a, b, c);
     }
 }
